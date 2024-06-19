@@ -1,5 +1,5 @@
 # 💫 Hi There, I'm Shelbey, here's a bit about me:
-- Opera Singer turned <a href="https://tiktok.com/@https://www.tiktok.com/yoshelb" target="_blank">Shrimp influencer</a> turned Software Engineer. 
+- Opera Singer turned <a href="https://www.tiktok.com/@yoshelb?is_from_webapp=1&sender_device=pc" target="_blank">Shrimp influencer</a> turned Software Engineer. 
 - Recent graduate of AppAcademy
 - Currently working on this fun list making site: [gotothese.com](https://www.gotothese.com/)
 
