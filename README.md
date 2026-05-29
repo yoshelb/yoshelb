@@ -13,7 +13,7 @@ Software Engineer with a nontraditional path — opera 🎤 → [shrimp content]
 **[GoToThese](https://www.gotothese.com/)** — collect & privately review places for friends and family
 <br/><sub>Django REST · React · Google Places API · AWS S3</sub>
  
-**[Indigo Impact](https://www.indigoimpact.co/)** — interactive ed-tech results experience
+Indigo Impact — interactive ed-tech results experience
 <br/><sub>Next.js · React · TypeScript · custom recommendation engine</sub>
  
 ### Tech I reach for
