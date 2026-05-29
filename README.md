@@ -1,9 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f8a7a,100:8aab7a&height=150&section=header&text=Hi,%20I'm%20Shelbey&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Designer%20%C2%B7%20AI-assisted%20builder&descSize=17&descAlignY=66&descColor=f3f0ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d4a6b,100:5b85ad&height=150&section=header&text=Hi,%20I'm%20Shelbey&fontSize=44&fontColor=eef3f8&fontAlign=25&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%C2%B7%20DESIGNER%20%C2%B7%20AI-ASSISTED%20BUILDER&descSize=15&descAlign=32&descAlignY=66&descColor=c4d4e4" width="100%"/>
 
 Software Engineer with a nontraditional path — opera 🎤 → [shrimp content](https://www.tiktok.com/@yoshelb?is_from_webapp=1&sender_device=pc) 🦐 → full-stack 💻. I build thoughtful, well-designed web experiences. Lately: deep in AI-assisted workflows.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shelbeycasalena.com-1f8a7a?style=flat-square&logo=safari&logoColor=white)](https://shelbeycasalena.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shelbey-casalena)
+🌐 [**ShelbeyCasalena.com**](https://shelbeycasalena.com/) &nbsp;·&nbsp; 💼 [**LinkedIn**](https://www.linkedin.com/in/shelbey-casalena)
 
 ---
 
@@ -17,12 +16,10 @@ Software Engineer with a nontraditional path — opera 🎤 → [shrimp content]
 
 ### Tech I reach for
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-
-<br/>
+![Next.js](https://img.shields.io/badge/Next.js-466085?style=flat-square&logo=next.js&logoColor=eef3f8&labelColor=2d4a6b)
+![React](https://img.shields.io/badge/React-466085?style=flat-square&logo=react&logoColor=eef3f8&labelColor=2d4a6b)
+![TypeScript](https://img.shields.io/badge/TypeScript-466085?style=flat-square&logo=typescript&logoColor=eef3f8&labelColor=2d4a6b)
+![Python](https://img.shields.io/badge/Python-466085?style=flat-square&logo=python&logoColor=eef3f8&labelColor=2d4a6b)
+![Django](https://img.shields.io/badge/Django-466085?style=flat-square&logo=django&logoColor=eef3f8&labelColor=2d4a6b)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-466085?style=flat-square&logo=postgresql&logoColor=eef3f8&labelColor=2d4a6b)
+![AWS](https://img.shields.io/badge/AWS-466085?style=flat-square&logo=amazonwebservices&logoColor=eef3f8&labelColor=2d4a6b)
