@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Hi, I'm Shelbey — Software Engineer, Designer, AI-assisted builder">
+  <!-- top hairline -->
+  <line x1="2" y1="12" x2="1198" y2="12" stroke="#d7dfe8" stroke-width="1.2"/>
+ 
+  <!-- title -->
+  <text x="2" y="120" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" fill="#2d4a6b">Hi, I'm Shelbey</text>
+ 
+  <!-- vertical divider -->
+  <line x1="556" y1="70" x2="556" y2="142" stroke="#c4d1de" stroke-width="1.5"/>
+ 
+  <!-- stacked monospace tagline -->
+  <g font-family="'Courier New', ui-monospace, monospace" font-size="19" letter-spacing="2" fill="#5b85ad">
+    <text x="592" y="88">SOFTWARE ENGINEER</text>
+    <text x="592" y="118">DESIGNER</text>
+    <text x="592" y="148">AI-ASSISTED BUILDER</text>
+  </g>
+ 
+  <!-- bottom hairline -->
+  <line x1="2" y1="186" x2="1198" y2="186" stroke="#d7dfe8" stroke-width="1.2"/>
+</svg>
