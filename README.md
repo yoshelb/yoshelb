@@ -1,8 +1,9 @@
-<img width="1200" height="150" alt="header" src="https://github.com/user-attachments/assets/85b136e4-6689-47e7-8453-4beda9cabd47" /><im
-g src="header.svg" alt="Hi, I'm Shelbey — Software Engineer · Designer · AI-assisted builder" width="100%"/>
-Software Engineer with a nontraditional path — opera 🎵 → [shrimp content](https://www.tiktok.com/@yoshelb?is_from_webapp=1&sender_device=pc) 🦐 → full-stack 💻. I build thoughtful, well-designed web experiences. Lately: deep in AI-assisted workflows.
+<img width="1200" height="200" alt="header (1)" src="https://github.com/user-attachments/assets/9d57feb4-6b1d-41f6-8dca-74977af68a14" />
+
  
-🌐 [**shelbeycasalena.com**](https://shelbeycasalena.com/) &nbsp;·&nbsp; 💼 [**LinkedIn**](https://www.linkedin.com/in/shelbey-casalena)
+Software Engineer with a nontraditional path — opera 🎤 → [shrimp content](https://www.tiktok.com/@yoshelb?is_from_webapp=1&sender_device=pc) 🦐 → full-stack 💻. I build thoughtful, well-designed web experiences. Lately: deep in AI-assisted workflows.
+ 
+[Portfolio](https://shelbeycasalena.com/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/shelbey-casalena)
  
 ---
  
@@ -23,4 +24,3 @@ Software Engineer with a nontraditional path — opera 🎵 → [shrimp content]
 ![Django](https://img.shields.io/badge/Django-466085?style=flat-square&logo=django&logoColor=eef3f8&labelColor=2d4a6b)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-466085?style=flat-square&logo=postgresql&logoColor=eef3f8&labelColor=2d4a6b)
 ![AWS](https://img.shields.io/badge/AWS-466085?style=flat-square&logo=amazonwebservices&logoColor=eef3f8&labelColor=2d4a6b)
-
