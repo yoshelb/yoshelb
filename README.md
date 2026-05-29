@@ -1,6 +1,6 @@
 <img width="1200" height="150" alt="header" src="https://github.com/user-attachments/assets/85b136e4-6689-47e7-8453-4beda9cabd47" /><im
 g src="header.svg" alt="Hi, I'm Shelbey — Software Engineer · Designer · AI-assisted builder" width="100%"/>
-Software Engineer with a nontraditional path — opera 🎤 → [shrimp content](https://www.tiktok.com/@yoshelb?is_from_webapp=1&sender_device=pc) 🦐 → full-stack 💻. I build thoughtful, well-designed web experiences. Lately: deep in AI-assisted workflows.
+Software Engineer with a nontraditional path — opera 🎵 → [shrimp content](https://www.tiktok.com/@yoshelb?is_from_webapp=1&sender_device=pc) 🦐 → full-stack 💻. I build thoughtful, well-designed web experiences. Lately: deep in AI-assisted workflows.
  
 🌐 [**shelbeycasalena.com**](https://shelbeycasalena.com/) &nbsp;·&nbsp; 💼 [**LinkedIn**](https://www.linkedin.com/in/shelbey-casalena)
  
