@@ -1,8 +1,8 @@
-# Hi, I'm Shelbey
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f8a7a,100:8aab7a&height=150&section=header&text=Hi,%20I'm%20Shelbey&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Designer%20%C2%B7%20AI-assisted%20builder&descSize=17&descAlignY=66&descColor=f3f0ea" width="100%"/>
 
-Software Engineer with a nontraditional path — opera → [shrimp content](https://www.tiktok.com/@yoshelb?is_from_webapp=1&sender_device=pc) → full-stack. I build thoughtful, well-designed web experiences. Lately: deep in AI-assisted workflows.
+Software Engineer with a nontraditional path — opera 🎤 → [shrimp content](https://www.tiktok.com/@yoshelb?is_from_webapp=1&sender_device=pc) 🦐 → full-stack 💻. I build thoughtful, well-designed web experiences. Lately: deep in AI-assisted workflows.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shelbeycasalena.com-1a1a1a?style=flat-square&logo=safari&logoColor=white)](https://shelbeycasalena.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shelbeycasalena.com-1f8a7a?style=flat-square&logo=safari&logoColor=white)](https://shelbeycasalena.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shelbey-casalena)
 
 ---
@@ -17,8 +17,12 @@ Software Engineer with a nontraditional path — opera → [shrimp content](http
 
 ### Tech I reach for
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,django,postgres,aws&theme=light" />
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshelb&theme=transparent&hide_border=true&layout=compact" height="150"/>
