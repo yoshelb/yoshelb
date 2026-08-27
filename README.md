@@ -17,7 +17,7 @@ Software Engineer with a nontraditional path — opera 🎤 → [shrimp content]
 
 <p align="center">
   <img src="assets/trello-board.jpg" width="92%" alt="The live Trello board, mid-flight">
-  <br><sub>the board (Agent Command Center), mid-flight: a stocked queue, four cards in Doing, one waiting on human input</sub>
+  <br><sub>the board (Agent Command Center) after an overnight run: the queue is cleared, six cards sit in Ready to Merge, two wait on human input</sub>
 </p>
 
 <table>
