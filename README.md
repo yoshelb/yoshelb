@@ -27,9 +27,9 @@ Software Engineer with a nontraditional path — opera 🎤 → [shrimp content]
 </td>
 <td>
 
-**Explainers**
+**/Explainers**
 
-The factory ships faster than I can read every diff, so I've been thinking hard about how to keep myself genuinely in the loop. Explainers is one answer: a Claude Code skill that turns any of my projects into an interactive explainer page, with researched visual sections, audio briefings with word-synced captions over a looping brainrot video (inspo: pdf to brainrot), and a quiz to prove I actually absorbed it.
+The factory ships faster than I can read every diff, so I've been thinking hard about how to keep myself genuinely in the loop. /explainers is one answer: a Claude Code skill that turns any of my projects into an interactive explainer page, with researched visual sections, audio briefings with word-synced captions over a looping brainrot video (inspo: pdf to brainrot), and a quiz to prove I actually absorbed it.
 
 <sub>Claude Code skill · Gemini TTS · faster-whisper · canvas</sub>
 
