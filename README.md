@@ -13,12 +13,13 @@ Software Engineer with a nontraditional path — opera 🎤 → [shrimp content]
 **Agent Board**: my personal AI dev team, run from a Trello board. Trello instead of a homegrown board because it's free, has great apps, and is an API-ready source of truth, so there's nothing for me to build or host. Drop a card in To Do and a dispatcher spawns a Claude worker in an isolated git worktree; five reviewers judge the diff (one of them judges the rendered pixels), then an interactive merge loop boots each finished change in the browser so merging is a quick look and a yes. The whole thing is tuned to squeeze the most out of my Claude Max plan, with zero hosting costs. I'm now building the outer loop: sensors record the harness's own health, and a proposer reads that telemetry and files improvement cards back onto the board, working toward a system that improves and heals itself.
 <br><sub>Python (stdlib only) · Claude Code · Trello API · git worktrees</sub>
 
-![The factory: an inner loop that ships work, sensors feeding an append-only store, and an outer loop that studies and improves it](assets/factory.svg)
-
 <p align="center">
   <img src="assets/trello-board.jpg" width="92%" alt="The live Trello board, mid-flight">
-  <br><sub>the board (Agent Command Center) after an overnight run: the queue is cleared, six cards sit in Ready to Merge, two wait on human input</sub>
+  <br><sub>the board (Agent Command Center), mid-flight: four cards in Doing, one waiting on my input, two ready to merge</sub>
 </p>
+
+![The factory: an inner loop that ships work, sensors feeding an append-only store, and an outer loop that studies and improves it](assets/factory.svg)
+
 
 <table>
 <tr>
